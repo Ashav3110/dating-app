@@ -50,7 +50,7 @@ const AuthPage = () => {
       <div className="bg-gradient-to-br from-primary via-slate-900 to-slate-950 text-white flex flex-col justify-between p-10">
         <div>
           <p className="text-sm uppercase tracking-[0.3em] text-white/60 mb-4">Dating, reimagined</p>
-          <h1 className="text-4xl lg:text-5xl font-black leading-tight">Meet Shivam DON you actually vibe with.</h1>
+          <h1 className="text-4xl lg:text-5xl font-black leading-tight">Meet Shiavam  ad KING you actually vibe with.</h1>
           <p className="mt-6 text-white/70 text-lg">HeartLink keeps it simple with clean design, real-time chat, and thoughtful matches.</p>
         </div>
         <div className="grid grid-cols-3 gap-3 mt-10">
