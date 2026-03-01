@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+.glass {
+  @apply bg-white/70 backdrop-blur-lg shadow-card border border-white/40;
+}
+
+.btn-primary {
+  @apply px-4 py-2 rounded-full bg-primary text-white font-semibold shadow-card transition hover:translate-y-[-1px] hover:shadow-lg active:translate-y-[0];
+}
+
+.btn-outline {
+  @apply px-4 py-2 rounded-full border border-slate-200 text-slate-800 font-semibold bg-white hover:border-primary hover:text-primary transition;
+}
